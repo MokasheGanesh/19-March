@@ -17,7 +17,7 @@ import com.beust.jcommander.Parameter;
 
 public class TestClassA {
 	
-	@Parameter
+
 	@BeforeSuite
 	public void beforeSuite()
 	{
